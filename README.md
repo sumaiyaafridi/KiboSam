@@ -3,7 +3,7 @@ A Ministry of Planning is trying to understand the sentiments of people about Co
 Regular expressions can be used here to perform text search and text replace operations.
 
 # Your Task
-Your program will take the path to a csv file and analyze the file for the following operations:
+Your program will take the path to a ``Tweets_Datset.xlsx`` file and analyze the file for the following operations:
 
 - Remove a words followed by '@'
 - Replace '#Covid19' with covid
@@ -15,7 +15,7 @@ Your program will take the path to a csv file and analyze the file for the follo
 Generate a CSV file and store the process results.
 
 # Starter Code
-The starter code in covid_tweets.py has an empty implemetation for preprocess_tweets.py
+The starter code in ``covid_tweets.py`` has an empty implemetation for ``preprocess_tweets.py``
 
 # Expected Results
  
@@ -26,4 +26,4 @@ The starter code in covid_tweets.py has an empty implemetation for preprocess_tw
  hr bartender    | How covid Will Change Work in General (and recruiting, specifically) 
 
 # Testing
-Create a tweet which consists of set of characters we have removed and pass ot to the preprocess_tweets.py to check the results.
+Create a tweet which consists of set of characters we have removed and pass ot to the ``preprocess_tweets.py`` to check the results.
