@@ -1,5 +1,5 @@
 # Covid Tweet Cleaning
-A Ministry of Planning is trying to understand the sentiments of people about Covid19. To achive this Twitter a social network platform is used to obtain the data in form of tweets. Tweets are consist of useful information but as well unnecessary data which can cause poor sentiment prediction.
+A Ministry of Planning is trying to understand the sentiments of people about Covid19. To achive this Twitter a social network platform is used to obtain the data in form of tweets. Tweets are consist of useful information but as well as unnecessary data which can cause poor sentiment prediction of models.
 Regular expressions can be used here to perform text search and text replace operations.
 
 # Your Task
@@ -21,9 +21,9 @@ The starter code in ``covid_tweets.py`` has an empty implemetation you can use p
  
  Users           | Tweets   
  
- Time4fisticuffs | Trump never once claimed covid was a hoax. We all claim that this effort 
+ Time4fisticuffs | Trump never once claimed covid was a hoax. We all claim that this effort to
  
- hr bartender    | How covid Will Change Work in General (and recruiting, specifically) 
+ hr bartender    | How covid Will Change Work in General and recruiting, specifically
 
 # Testing
 Create a tweet which consists of set of characters we have removed and pass to the ``covid_tweets.py`` to check the results.
