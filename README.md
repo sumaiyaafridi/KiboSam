@@ -12,10 +12,10 @@ Your program will take the path to a ``Tweets_Datset.xlsx`` file and analyze the
 - Remove numbers
 - Remove '( ' and ')'
 
-Generate a CSV file and store the process results.
+Generate a ``results.csv`` file and store the process results.
 
 # Starter Code
-The starter code in ``covid_tweets.py`` has an empty implemetation for ``preprocess_tweets.py``
+The starter code in ``covid_tweets.py`` has an empty implemetation you can use python or jupyter editors.
 
 # Expected Results
  
@@ -26,4 +26,4 @@ The starter code in ``covid_tweets.py`` has an empty implemetation for ``preproc
  hr bartender    | How covid Will Change Work in General (and recruiting, specifically) 
 
 # Testing
-Create a tweet which consists of set of characters we have removed and pass ot to the ``preprocess_tweets.py`` to check the results.
+Create a tweet which consists of set of characters we have removed and pass to the ``covid_tweets.py`` to check the results.
